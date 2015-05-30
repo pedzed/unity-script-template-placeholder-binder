@@ -31,7 +31,7 @@ script templates.
 
 ## Usage
 
-1. Download the [Unity Package](ScriptTemplatePlaceholderBinder.unitypackage).
+1. Download the [Unity Package](https://github.com/pedzed/unity-script-template-placeholder-binder/raw/master/ScriptTemplatePlaceholderBinder.unitypackage).
 2. Import the Unity Package to your project.
 3. Modify the template files as you wish using the available placeholders.
 
