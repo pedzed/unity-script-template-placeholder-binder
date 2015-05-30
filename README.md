@@ -34,7 +34,10 @@ script templates.
 1. Download the [Unity Package](https://github.com/pedzed/unity-script-template-placeholder-binder/raw/master/ScriptTemplatePlaceholderBinder.unitypackage).
 2. Import the Unity Package to your project.
 3. Modify the template files as you wish using the available placeholders.
+4. Start Unity3D. If it was already open, restart it.
+5. Create a new script.
 
+If you get errors, you may have to restart your computer.
 
 ## Example templates
 File `81-C# Script-NewBehaviourScript.cs.txt`:
