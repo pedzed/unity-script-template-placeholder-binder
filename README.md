@@ -70,7 +70,6 @@ namespace #PASCALCASED_COMPANY_NAME#.#PASCALCASED_PROJECT_NAME#
 | `#PASCALCASED_PROJECT_NAME#` | Gets the project name in PascalCase                                     |
 | `#PASCALCASED_SCRIPT_NAME#`  | Gets the script name in PascalCase.                                     |
 | `#CREATION_DATE#`            | Gets the script's creation date.                                        |
-|                              |                                                                         |
 
 ### Company name
 The company name placeholder makes use of 
