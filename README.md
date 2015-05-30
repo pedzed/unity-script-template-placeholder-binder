@@ -1,6 +1,6 @@
 # Script template placeholder binder
 
-When you want to create a new script in Unity3D, you will notice that pre-existing code is already generated for you.
+When you create a new script in Unity3D, you will notice that pre-existing code is generated for you.
 This code is called a template. In a default Unity (64-bit) Windows installation, the templates are located in
 `C:\Program Files\Unity\Editor\Data\Resources\ScriptTemplates`. You can modify them there as you wish.
 
