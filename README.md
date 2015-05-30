@@ -72,10 +72,10 @@ namespace #PASCALCASED_COMPANY_NAME#.#PASCALCASED_PROJECT_NAME#
 | `#CREATION_DATE#`            | Gets the script's creation date.                                        |
 |                              |                                                                         |
 
-## Company name
+### Company name
 The company name placeholder makes use of 
 [`PlayerSettings.companyName`](https://docs.unity3d.com/ScriptReference/PlayerSettings-companyName.html).
 
-## Project name
+### Project name
 The project name placeholder makes use of 
 [`PlayerSettings.productName`](https://docs.unity3d.com/ScriptReference/PlayerSettings-productName.html).
