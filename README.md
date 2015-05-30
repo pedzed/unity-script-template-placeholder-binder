@@ -75,7 +75,9 @@ namespace #PASCALCASED_COMPANY_NAME#.#PASCALCASED_PROJECT_NAME#
 ### Company name
 The company name placeholder makes use of 
 [`PlayerSettings.companyName`](https://docs.unity3d.com/ScriptReference/PlayerSettings-companyName.html).
+It can be changed by going to `Edit > Project Settings > Player`.
 
 ### Project name
 The project name placeholder makes use of 
 [`PlayerSettings.productName`](https://docs.unity3d.com/ScriptReference/PlayerSettings-productName.html).
+It can be changed by going to `Edit > Project Settings > Player`.
