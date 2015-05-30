@@ -66,8 +66,16 @@ namespace #PASCALCASED_COMPANY_NAME#.#PASCALCASED_PROJECT_NAME#
 
 | Placeholder                  | Description                                                             |
 |------------------------------|-------------------------------------------------------------------------|
-| `#PASCALCASED_COMPANY_NAME#` | Gets the company name in PascalCase (uses `PlayerSettings.companyName`) |
-| `#PASCALCASED_PROJECT_NAME#` | Gets the project name in PascalCase (uses `PlayerSettings.productName`) |
+| `#PASCALCASED_COMPANY_NAME#` | Gets the company name in PascalCase                                     |
+| `#PASCALCASED_PROJECT_NAME#` | Gets the project name in PascalCase                                     |
 | `#PASCALCASED_SCRIPT_NAME#`  | Gets the script name in PascalCase.                                     |
 | `#CREATION_DATE#`            | Gets the script's creation date.                                        |
 |                              |                                                                         |
+
+## Company name
+The company name placeholder makes use of 
+[`PlayerSettings.companyName`](https://docs.unity3d.com/ScriptReference/PlayerSettings-companyName.html).
+
+## Project name
+The project name placeholder makes use of 
+[`PlayerSettings.productName`](https://docs.unity3d.com/ScriptReference/PlayerSettings-productName.html).
